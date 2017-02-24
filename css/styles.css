@@ -1,0 +1,29 @@
+#topimg {
+	text-align: center;
+	width: 100%;
+}
+
+
+.carCard {
+	border: solid black .25em;
+	margin: 3em;
+	padding: .5em;
+}
+
+#carInfo {
+	font-style: italic;
+	font-weight: bolder;
+}
+
+.price {
+	color: red;
+}
+
+.descrip {
+	color:blue;
+}
+
+.newStyle {
+	border: solid orange 1.5em;
+	background-color: pink;
+}

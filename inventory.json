@@ -1,0 +1,43 @@
+[
+ 
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2012",
+      "price": "$8,999",
+      "description": "Only 25,000 miles. Maroon exterior, tan interior. Leather seats."
+    },
+
+    {
+      "make": "BMW",
+      "model": "330i",
+      "year": "2009",
+      "price": "$10,999",
+      "description": "50,000 miles. Sport package. Black exterior, tan interior."
+    },
+
+    {
+      "make": "Honda",
+      "model": "Pilot",
+      "year": "2012",
+      "price": "$15,900",
+      "description": "35,000 miles. Charcoal exterior, black interior. Good on gas."
+    },
+
+    {
+      "make": "Toyota",
+      "model": "Prius",
+      "year": "2013",
+      "price": "$12,000",
+      "description": "40,000 miles. Silver exterior, gray interior. Fit in at NSS!"
+    },
+
+    {
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": "2015",
+      "price": "$30,900",
+      "description": "22,000 miles. White exterior, tan leather interior. Great buy."
+    }
+
+]
